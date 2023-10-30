@@ -1,5 +1,5 @@
 pair_num = 4;
-svpwm_period = 1/100;
+svpwm_period = 1/1000;
 amplitude_voltage = 12;
 
 torque_Id_pid_p = 75.0;
